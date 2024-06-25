@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "abdullahchFolio",
-  "homepage": "https://abdullahch.dev",
+  "name": "abdulsFolio",
+  "homepage": "https://abdulmueed.dev",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",

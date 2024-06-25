@@ -11,26 +11,26 @@ class Home extends Component {
     return (
       <div>
         <Helmet>
-          ‍<title>Abdullah Ch </title>‍
+          ‍<title>Abdul Mueed </title>‍
           <meta
             name="description"
-            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Abdul Mueed (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdul is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
           />
-          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
-          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:site" content="@AlMoeedShz" />{" "}
+          <meta name="twitter:creator" content="@AlMoeedShz" />{" "}
           <meta name="twitter:title" content="Resume " />{" "}
-          <meta property="twitter:url" content="https://abdullahch.dev/home" />
+          <meta property="twitter:url" content="https://abdulmueed.dev/home" />
           <meta
             name="twitter:description"
-            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Abdul Mueed (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdul is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
           />
-          <meta property="og:title" content="Abdullah Ch " />{" "}
+          <meta property="og:title" content="Abdul Mueed " />{" "}
           <meta
             property="og:description"
-            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Abdul Mueed (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdul is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
           />
-          <meta property="og:url" content="https://abdullahch.dev/" />
-          <meta property="og:site_name" content="Abdullah Ch " />
+          <meta property="og:url" content="https://abdulmueed.dev/" />
+          <meta property="og:site_name" content="Abdul Mueed " />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

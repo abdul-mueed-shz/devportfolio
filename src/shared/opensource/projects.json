@@ -2,51 +2,51 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Refresh Token Rotation",
-      "createdAt": "Feb 2023",
-      "url": "https://github.com/abdullah-ch/refresh-token-rotation",
-      "description": "This Repository implements Refresh Token Rotation Authentication System and Automatic Retry Mechanism of Failed APIs with Stale Access Tokens, using MERN (Mongo DB - Express - React - Node) Stack",
+      "name": "Authentication Microservice",
+      "createdAt": "July 2023",
+      "url": "https://github.com/abdul-mueed-shz/Auth-Microservice",
+      "description": "I implemented a refresh token rotation authentication system with hacker detection for improved security using Django Rest Framework, MySQL, and Django Simple JWT. This facilitated coupled authentication with other applications, enabling secure integration via redirect URIs and URL parameters.",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
         },
         {
           "name": "nodeJs",
-          "iconifyClass": "logos-nodejs"
+          "iconifyClass": "logos-django"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "Web Socket Server",
-      "createdAt": "July 2020",
-      "url": "https://github.com/abdullah-ch/websockets-authentication-server",
-      "description": "This Repository implements an Authenticated Websocket Server built in Node Js along ws library and provide benefits like Heartbeat Monitoring of the Clients, Pinging Functionality and pruning dead clients",
+      "name": "Authenticated Blogs Application",
+      "createdAt": "May 2024",
+      "url": "https://github.com/abdul-mueed-shz/spring-blog",
+      "description": "I developed a secure blog management application leveraging Spring Boot, Spring Security, and MySQL. Featuring user authentication, CRUD operations, and a responsive UI, it ensures a seamless blogging experience while prioritizing security with Spring Security.",
       "isFork": false,
       "languages": [
         {
-          "name": "nodeJS",
-          "iconifyClass": "logos-nodejs"
+          "name": "Springboot",
+          "iconifyClass": "logos-spring"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "Anime Tracker",
-      "createdAt": "Jun 2021",
-      "url": "https://github.com/abdullah-ch/Anime-Tracker-Web-App",
-      "description": "Anime Tracker App keeps you updated with anime world. You can search for any anime and get the result in the form of CSS Cards, clicking them will redirect you to the searched anime info. It has three rows. First one host the anime list which are released or updated that day, meaning you'll know which anime has been recently released, it changes day to day, dynamically. Second row shows the anime which have the highest score depending on MAL(It is like imdb for anime). Last row maps the anime which will be released in future and they are sorted on the hype created by their fans :P. Clicking on any of the cards which show their Info ! ",
+      "name": "GlowBeyond E-commerce Platform",
+      "createdAt": "Mar 2023",
+      "url": "https://github.com/abdul-mueed-shz/GlowBeyond",
+      "description": "I built a robust e-commerce platform, GlowBeyond, using Vue.js for the frontend and Django Rest Framework for the backend. This platform integrates secure login and JWT token authentication, showcasing the latest products with add-to-cart functionality, cart management, and notifications. ",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
         },
         {
-          "name": "nodeJs",
-          "iconifyClass": "logos-nodejs"
+          "name": "Django",
+          "iconifyClass": "logos-django"
         },
         {
           "name": "HTML",
@@ -60,15 +60,19 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyND30NjcyNzQ=",
-      "name": "Chai Khana",
-      "createdAt": "May 2021",
-      "url": "https://www.chaayekhana.com/",
-      "description": "Chai Khana is a Pakistani Restaurant, famous for the rich flavors of Indian and Pakistani cuisine",
+      "name": "EzBdrige",
+      "createdAt": "June 2022",
+      "url": "https://ezbridge.io/#/",
+      "description": "EzBridge revolutionizes marketing by effortlessly bridging the gap between businesses and social media influencers.",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
         },
         {
           "name": "HTML",
@@ -82,15 +86,31 @@
     },
     {
       "id": "MDEwOlJlcG93aXRvcnkyND30NjcyNzQ=",
-      "name": "Dubizzle",
-      "createdAt": "Oct 2023",
-      "url": "https://www.dubizzle.com/",
-      "description": "Dubizzle is UAE's #1 online Classified website",
+      "name": "Orderlab",
+      "createdAt": "Sep 2022",
+      "url": "https://www.orderlab.com/#/",
+      "description": "From coffee beans and paper clips to the manufacturing supply chain of space shuttles, ORDERLAB takes care of your B2B ordering workflows, so you can focus on the success of your core business.",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "Springboot",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "Kafka",
+          "iconifyClass": "mdi:apache-kafka"
+        },
+        {
+          "name": "Apache Ignite",
+          "iconifyClass": "logos:apache"
+        },
+        {
+          "name": "My Sql",
+          "iconifyClass": "logos:mysql"
         },
         {
           "name": "HTML",
@@ -104,10 +124,10 @@
     },
     {
       "id": "MDEwOlJlc2G93aXRvcnkyND30NjcyNzQ=",
-      "name": "Trade Hat",
+      "name": "rCBT",
       "createdAt": "Sep 2021",
-      "url": "https://app.tradehat.com/",
-      "description": "TradeHat provides backtesting ticker strategies, screening tickers and many other cool trading features",
+      "url": "https://redmarker.io/rcbt/",
+      "description": "The Absolute Solution For Fair Online Examination",
       "isFork": false,
       "languages": [
         {
@@ -115,12 +135,12 @@
           "iconifyClass": "logos-vue"
         },
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Django",
+          "iconifyClass": "logos-django"
         },
         {
-          "name": "nodeJs",
-          "iconifyClass": "logos-nodejs"
+          "name": "My Sql",
+          "iconifyClass": "logos:mysql"
         },
         {
           "name": "HTML",
@@ -134,15 +154,23 @@
     },
     {
       "id": "MDEwOlJlc2G93a2XRvcnkyND30NjcyNzQ=",
-      "name": "Unto The One",
-      "createdAt": "March 2023",
-      "url": "https://untotheone.com/",
-      "description": "Unto the One helps you embark on a spiritual journey to seek unity and enlightenment.",
+      "name": "rMarker",
+      "createdAt": "March 2021",
+      "url": "https://redmarker.io/rmarker/",
+      "description": "Online Onscreen Marking Solution.",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        },
+        {
+          "name": "My Sql",
+          "iconifyClass": "logos:mysql"
         },
         {
           "name": "HTML",

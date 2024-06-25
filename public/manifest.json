@@ -1,5 +1,5 @@
 {
-  "name": "abdullahchFolio",
+  "name": "abdulsFolio",
   "background_color": "#ffffff",
   "display": "standalone",
   "icons": [
@@ -10,7 +10,7 @@
       "density": "1.0"
     }
   ],
-  "short_name": "abdullahchFolio",
+  "short_name": "abdulsFolio",
   "start_url": ".",
   "theme_color": "#000000"
 }

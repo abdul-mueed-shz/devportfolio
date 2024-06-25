@@ -7,57 +7,57 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hi! its Abdullah",
-  logo_name: "Abdullah Chaudhary",
+  title: "Hi! its Abdul",
+  logo_name: "Abdul Mueed",
   nickname: "",
   subTitle:
-    "A full stack developer (MERN / MEVN) 💻 - A Community Builder 👨‍🏫 - Public Speaker 🎤",
+    "A full stack developer (Vue / React / Springboot / Django) 💻 - A Community Builder 👨‍🏫 - Public Speaker 🎤",
   resumeLink:
-    "https://drive.google.com/file/d/1bU2Ifkn877o9jP8qEO2AvsWTXe3oBWr_/view?usp=sharing",
-  portfolio_repository: "https://github.com/abdullah-ch/devportfolio",
+    "https://drive.google.com/file/d/1e1YNbUtC15uYsfpsOotgFaHXbWSTQqUv/view?usp=drive_link",
+  portfolio_repository: "https://github.com/abdul-mueed-shz",
 };
 
 const socialMediaLinks = [
   {
     name: "Stackoverflow",
-    link: "https://stackoverflow.com/users/13708712/abdullah-ch",
+    link: "https://stackoverflow.com/users/20266286/abdul-mueed",
     fontAwesomeIcon: "fa-stack-overflow", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#F48024", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "Github",
-    link: "https://github.com/abdullah-ch",
+    link: "https://github.com/abdul-mueed-shz",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/abdullah-ch/",
+    link: "https://www.linkedin.com/in/-abdulmueed/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UCNK0ZGO-8mnCGhtjUmFHyJg",
+    link: "https://www.youtube.com/channel/UCXjxgG6B0LzoDAmcYNcRaWQ",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:abdullahchaudharry@gmail.com",
+    link: "mailto:abdulmueedshahbaz@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/MAbdullahCh10",
+    link: "https://twitter.com/AlMoeedShz",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
 
   {
     name: "Instagram",
-    link: "https://www.instagram.com/mrabdullahch/",
+    link: "https://www.instagram.com/al_mo_eed/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -66,54 +66,13 @@ const socialMediaLinksHome = [...socialMediaLinks];
 
 const skills = {
   data: [
-    // {
-    //   title: "Data Science & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //   ],
-    // },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Proficient in full-stack web development with a focus on responsive web design using React JS, HTML/CSS and cool UI Libraries",
-        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS and Next JS with Design Patterns",
-        "⚡ Demonstrated ability in creating optimized application backends using Node JS, Express JS, and Nest Js.",
+        "⚡ Proficient in full-stack web development with a focus on responsive web design using React JS, Vue JS, HTML/CSS and cool UI Libraries",
+        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS with Design Patterns",
+        "⚡ Demonstrated ability in creating optimized micro-services using Springboot, and Django.",
         "⚡ Experienced in creating REST APIs using Best Practices",
       ],
 
@@ -155,17 +114,38 @@ const skills = {
           },
         },
         {
-          skillName: "mongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "VueJs",
+          fontAwesomeClassname: "simple-icons:vuedotjs",
           style: {
-            color: "#13AA52",
+            color: "green",
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "MySql",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
-            color: "#339933",
+            color: "#00758f",
+          },
+        },
+        {
+          skillName: "Springboot",
+          fontAwesomeClassname: "simple-icons:springboot",
+          style: {
+            color: "#339940",
+          },
+        },
+        {
+          skillName: "Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
+          style: {
+            color: "#231F20",
+          },
+        },
+        {
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
+          style: {
+            color: "#092E20",
           },
         },
         {
@@ -173,20 +153,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:npm",
           style: {
             color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "black",
           },
         },
       ],
@@ -239,13 +205,6 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
@@ -263,7 +222,7 @@ const skills = {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
-            color: "#8BA8B9",
+            color: "#00758f",
           },
         },
       ],
@@ -363,7 +322,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "National University of Sciences and Technology, Islamabad",
+      title: "Information Technology University, Lahore",
       subtitle: "Bachelor's in Computer Sciences",
       logo_path: "nust-logo.png",
       alt_name: "NUST - Islamabad",
@@ -503,15 +462,6 @@ const certifications = {
       alt_name: "AWS",
       color_code: "#222E3C",
     },
-    // {
-    //   title: "Cryptography",
-    //   subtitle: "- Saurabh Mukhopadhyay",
-    //   logo_path: "nptel_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-    //   alt_name: "NPTEL",
-    //   color_code: "#FFBB0099",
-    // },
     {
       title: "Machine Learning APIs",
       subtitle: "- Qwiklabs",
@@ -575,128 +525,68 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-    "I have worked with evolving Start-ups as well as some well-established companies as a Full Stack JavaScript Developer. I am one of the top 10 percent Software Engineers on Stackoverflow and my questions and answers have impacted more than 5.8 million Developers all around the world !",
+    "As a Full Stack Developer with three years of industry experience, I have a solid background in both frontend and backend development. My expertise spans various technologies and frameworks, enabling me to build and maintain comprehensive web applications across diverse domains, including e-commerce and social media platforms.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Software Engineer",
-          company: "Dubizzle",
-          company_url: "https://www.dubizzle.com/",
-          logo_path: "abdullah-work/dubizzle-logo.png",
+          title: "Software Engineer II (Vue Js/Springboot/Django)",
+          company: "Redmath",
+          company_url: "https://redmath.com/",
+          logo_path: "abduls-work/redmath-logo.png",
           imageWrapperStyles: {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
           },
-          duration: "Jan 2023 - present",
-          location: "Hybrid",
+          duration: "Aug 2022 - present",
+          location: "On Site",
           description:
-            "Designed and developed headless reusable components, decoupling the UI and the logic layers for better code maintainability and flexibility using React JS and Next JS. Improved code quality and maintainability by conducting component code refactoring and converting to TypeScript. Collaborated with cross-functional teams to develop effective software solutions, utilizing communication and problem-solving skills. Translated stakeholder requirements into actionable development plans for successful project outcomes ",
+            "I developed reusable components in Vue JS and React JS, improved code quality through refactoring, and handled microservice architecture in Spring Boot and Java. I collaborated with cross-functional teams to translate stakeholder requirements into successful project outcomes. ",
           color: "#0879bf",
         },
         {
-          title: "Full Stack Software Engineer (MERN/MEVN)",
-          company: "Trade Hat, USA",
-          company_url: "https://app.quantbotics.com/",
-          logo_path: "abdullah-work/tradehat.svg",
+          title: "Full Stack Software Engineer (Vue Js/Django)",
+          company: "Ez Bridge, USA",
+          company_url: "https://ezbridge.io/",
+          logo_path: "abduls-work/ezbridge-logo.png",
           imageWrapperStyles: {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
           },
-          duration: "Sep 2021 - Jan 2023",
+          duration: "June 2021 - Aug 2022",
           location: "Remote Work",
           description:
-            "Optimized Webapp's bundle size by 15% through lazy loading, purging CSS, and migrating to lightweight libraries. Improved API security by implementing Refresh Token Rotation based Authentication with unique refresh tokens for each session using Node JS. Designed and implemented the mechanism, conducted thorough testing, and reduced the risk of data breaches. Designed and built a scalable WebSocket server with Node.js and the ws library, integrated with RabbitMQ for streaming real-time tickers' information and notifications.",
+            "I implemented token-based authentication in Django Rest Framework, integrated APIs from Google, Facebook, and Instagram to enhance influencer ranking algorithms, and designed reusable UI components in Vue.js. I also enhanced the application with robust database, text, and logging mechanisms.",
           color: "#0879bf",
         },
 
         {
-          title: "Full Stack Software Engineer (MERN)",
-          company: "BigOSoft",
-          company_url: "https://bigosoft.us/",
-          logo_path: "abdullah-work/bigosoft-black.png",
-          duration: "April 2020 - Sep 2021",
-          location: "Remote Work",
+          title: "Game Developer (Unity)",
+          company: "Mindstorm Studios",
+          company_url: "https://mindstormstudios.com/",
+          logo_path: "abduls-work/mindstorm.svg",
+          duration: "July 2021 - Sep 2021",
+          location: "Hybrid",
           imageWrapperStyles: {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
           },
           description:
-            "Built reusable React components with decoupled logic and UI layers using Hooks, improving code maintainability and development efficiency. Contributed to React-based POS and website front-end development using TypeScript and Material UI,delivering high-quality, responsive interfaces through collaboration with cross-functional teams. Created efficient and scalable RESTful APIs to support seamless communication between systems, ensuring productivity and minimizing downtime",
+            "I innovated game mechanics with a dynamic power-up system, introducing abilities like speed boosts and shields, enhancing gameplay. I implemented solutions for environmental challenges and fixed UI bugs, improving user interaction and level design. I refined running, jumping, and animation systems for a seamless gaming experience.",
           color: "#0879bf",
         },
       ],
     },
-    // {
-    //   title: "Internships",
-    //   experiences: [
-    //     {
-    //       title: "Machine Learning Research Intern",
-    //       company: "ROMI Lab, SEECS",
-    //       company_url: "https://romi.seecs.nust.edu.pk/",
-    //       logo_path: "romi-logo.png",
-    //       duration: "April 2020 - September 2020",
-    //       location: "SEECS, NUST",
-    //       description:
-    //         "Worked on project of converting 2D image into 3D using the help of Machine Learning. The project covered two main aspects: (1) To enuemerate normal prediction of a 2D image. (2) Using ML techniques to draw coordinates on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution. The project had the following scope: (a) Object Visualization for Uban Cities. (b) Generating/evaluating building hypothesis",
-    //       color: "#ee3c26",
-    //     },
-    //     {
-    //       title: "Software Quality Assurance Intern",
-    //       company: "Afiniti",
-    //       company_url: "https://www.afiniti.com/",
-    //       logo_path: "afiniti-vector-logo.png",
-    //       duration: "August 2020 - September 2020",
-    //       location: "Work From Home",
-    //       description:
-    //         "Worked as a Software Quality Assurance Intern for an Enterprise software developed by Afiniti with a diverse group of 70+ students from multinational backgrounds. The work helped me build strong analytical approach. The agile feedbacks and suggestions improved the product to a greater extent. Ultimately, I gained keen knowledge of working in big corporates and been able to blend into their working environments.",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Graphic Designer Intern",
-    //       company: "Vyro.ai",
-    //       company_url: "https://www.vyro.ai/",
-    //       logo_path: "vyro.ai.png",
-    //       duration: "Feb 2019 - Apr 2019",
-    //       location: "TIC, NUST",
-    //       description:
-    //         "Mainly aimed to create face models for a photo editing mobile app using AI. The face features were designed using photoshop and illustrator. Used scripting for automation of rendering. The automation reduced the office overhead and labour by 60%. The initial boost helped the app to attain 1M+ downloads in the play store within a year. So far Vyro has more than 4 apps in play store with approximately 32M+ downloads.",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Digital Marketing Intern",
-    //       company: "Friends Corporation",
-    //       company_url: "https://www.friendshome.pk/",
-    //       logo_path: "friendshome.png",
-    //       duration: "Jun 2016 - Jul 2016",
-    //       location: "Murree Road, Rawalpindi",
-    //       description:
-    //         "Analyzed data from 25000+ monthly active users and used outputs to guide marketing and product strategies. Increased average online engagement time by 2x, 25% decrease in drop off rate, and 3x shares on social media.",
-    //       color: "#0071C5",
-    //     },
-    //   ],
-    // },
     {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Microsoft Learn Student Ambassador",
-          company: "Microsoft",
-          company_url: "https://studentambassadors.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - present",
-          location: "ITU, Lahore",
-          description:
-            "Microsoft Student Ambassador is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops of GitHub and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Developer Student Club Lead - ITU",
+          title: "Developer Student Club Lead - Core Team Member",
           company: "Google Developers",
           company_url:
             "https://dsc.community.dev/information-technology-university/",
@@ -704,22 +594,9 @@ const experience = {
           duration: "July 2020 - July 2021",
           location: "ITU, Lahore",
           description:
-            "2nd ever lead from ITU and Pakistani DSC Chapter. Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
+            "Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
           color: "#4285F4",
         },
-        {
-          title: "AWS Comunity Builder",
-          company: "AWS",
-          company_url:
-            "https://aws.amazon.com/developer/community/community-builders/",
-          logo_path: "awsblack.png",
-          duration: "Apr 2020 - May 2022",
-          location: "ITU, Lahore",
-          description:
-            "Enabling students to learn the cloud based cooporate technology usage using AWS. Hosted webinars based on AWS and cloud-based technologies,Conducted workshops and Community Day event powered by AWS in Pakistan.",
-          color: "#000000",
-        },
-
         {
           title: "Developer Program Member",
           company: "Github",
@@ -728,7 +605,7 @@ const experience = {
           duration: "October 2020 - PRESENT",
           location: "Work From Home",
           description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like StudentCodeIn, Hacktoberfest, flutter mobile apps, and MERN applications. These contributions include bug fixes, feature requests and formulating proper documentation for a project.",
+            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like StudentCodeIn, Hacktoberfest, flutter mobile apps, and VueJs, ReactJs, Java, and Django applications. These contributions include bug fixes, feature requests and formulating proper documentation for a project.",
           color: "#181717",
         },
       ],
@@ -740,7 +617,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects involve use of various tech architectures and tools including ReactJs, NextJs, Redux, Hooks, Nodejs, ExpressJs, MongoDB, HTML/CSS and Vue JS. My best experience is to create Full stack applications and deploy them using an efficient cloud infrastructure.",
+    "My projects involve use of various tech architectures and tools including ReactJs, VueJs, Redux, Vuex, Pinia, Hooks, Composables, Django, Springboot, MySql, Apache Ignite, and HTML/CSS. My best experience is to create Full stack applications and deploy them using an efficient cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -781,7 +658,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "address_image.svg",
     description:
-      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with MERN / MEVN Stack and Opensource Development.",
+      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with Vue / React / Springboot / Django / (MERN/MEVN) and Opensource Development.",
   },
   addressSection: {
     title: "Address",
@@ -791,7 +668,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+92 3124108473",
+    subtitle: "+92 3234942960",
   },
 };
 

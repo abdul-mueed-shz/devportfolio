@@ -13,7 +13,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-Hit the live example, **[click here]https://www.abdullahch.dev/)**
+Hit the live example, **[click here]https://www.abdulmueed.dev/)**
 
 ## Clone And Use 📋
 
@@ -101,7 +101,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 ## Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mAbdullah1/therealmvp.dev/pulls) or [issue](https://github.com/mAbdullah1/therealmvp.dev/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/abdul-mueed-shz/therealmvp.dev/pulls) or [issue](https://github.com/abdul-mueed-shz/therealmvp.dev/issues).
 
 ## Big shoutout to
 

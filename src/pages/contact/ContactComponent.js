@@ -21,26 +21,26 @@ class Contact extends Component {
           ‍<title>Contact </title>‍
           <meta
             name="description"
-            content="Contact Abdullah Ch aka TheRealMVP today"
+            content="Contact Abdul Mueed aka TheRealMVP today"
           />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
-          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:site" content="@AlMoeedShz" />{" "}
+          <meta name="twitter:creator" content="@AlMoeedShz" />{" "}
           <meta name="twitter:title" content="Contact " />{" "}
           <meta
             property="twitter:url"
-            content="https://abdullahch.dev/contact"
+            content="https://abdulmueed.dev/contact"
           />
           <meta
             name="twitter:description"
-            content="Contact Abdullah Ch aka TheRealMVP today"
+            content="Contact Abdul Mueed aka TheRealMVP today"
           />{" "}
           <meta property="og:title" content="Contact " />{" "}
           <meta
             property="og:description"
-            content="Contact Abdullah Ch aka TheRealMVP today"
+            content="Contact Abdul Mueed aka TheRealMVP today"
           />
-          <meta property="og:url" content="https://abdullahch.dev/contact" />
+          <meta property="og:url" content="https://abdulmueed.dev/contact" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>
@@ -75,7 +75,7 @@ class Contact extends Component {
                 <div className="resume-btn-div">
                   <Button
                     text="Reach me via email"
-                    href="mailto:abdullahchaudharry@gmail.com"
+                    href="mailto:abdulmueedaudharry@gmail.com"
                     theme={theme}
                   />
                 </div>
