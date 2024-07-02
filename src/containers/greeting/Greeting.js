@@ -52,7 +52,7 @@ export default function Greeting(props) {
             <FeelingProud theme={theme} /> */}
             <img
               className="myimage"
-              src={require("../../assests/images/abdulMueed.jpg")}
+              src={require("../../assests/images/devAvatar.jpg")}
               alt="Abdul Mueed.img"
             ></img>
           </div>
