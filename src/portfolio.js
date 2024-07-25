@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Abdul Mueed",
   nickname: "",
   subTitle:
-    "A full stack developer (Vue / React / Springboot / Django) 💻 - A Community Builder 👨‍🏫 - Public Speaker 🎤",
+    "A full stack developer (Vue / React / Springboot / Django) 💻 - An Open Source Contributor 🌟 - Community Builder 👨‍🏫",
   resumeLink:
     "https://drive.google.com/file/d/1e1YNbUtC15uYsfpsOotgFaHXbWSTQqUv/view?usp=drive_link",
   portfolio_repository: "https://github.com/abdul-mueed-shz",
