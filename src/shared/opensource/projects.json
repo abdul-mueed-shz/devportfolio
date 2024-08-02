@@ -1,6 +1,20 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NT2=",
+      "name": "ServiceSphere",
+      "createdAt": "August 2024",
+      "url": "https://github.com/abdul-mueed-shz/ServiceSphere",
+      "description": "I developed a scalable e-commerce platform using Spring Boot and Spring Cloud in a microservices architecture. The application features service discovery with Eureka, centralized configuration management with Spring Cloud Config, and request routing through Spring Cloud Gateway. Authentication authorization are secured with Keycloak, ensuring a robust and modular online marketplace.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Springboot",
+          "iconifyClass": "logos-spring"
+        }
+      ]
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Authentication Microservice",
       "createdAt": "July 2023",
