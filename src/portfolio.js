@@ -532,6 +532,23 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title:
+            "Software Engineer – Backend & Frontend (Spring Boot/Vue.js/Quasar)",
+          company: "Nakisa",
+          company_url: "https://nakisa.com/",
+          logo_path: "abduls-work/nakisa-logo.svg", // You can place the logo image here
+          imageWrapperStyles: {
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          },
+          duration: "Feb 2025 – Present",
+          location: "On Site",
+          description:
+            "At Nakisa, a global leader in enterprise business solutions, I engineer scalable backend services using Spring Boot, Spring Security, and Spring Cloud. I build rich frontend UIs with Vue.js and Quasar, applying state management via Pinia and Vuex. I work with MySQL for persistent storage, Docker for containerization, and Nginx as a reverse proxy. I follow modern practices with TypeScript and Swagger to deliver maintainable and well-documented APIs.",
+          color: "#0879bf",
+        },
+        {
           title: "Software Engineer II (Vue Js/Springboot/Django)",
           company: "Redmath",
           company_url: "https://redmath.com/",
@@ -541,10 +558,10 @@ const experience = {
             alignItems: "center",
             justifyContent: "center",
           },
-          duration: "Aug 2022 - present",
+          duration: "Aug 2022 - Feb 2025",
           location: "On Site",
           description:
-            "I developed reusable components in Vue JS and React JS, improved code quality through refactoring, and handled microservice architecture in Spring Boot and Java. I collaborated with cross-functional teams to translate stakeholder requirements into successful project outcomes. ",
+            "I developed reusable components in Vue JS and React JS, improved code quality through refactoring, and handled microservice architecture in Spring Boot and Java. I collaborated with cross-functional teams to translate stakeholder requirements into successful project outcomes.",
           color: "#0879bf",
         },
         {
@@ -563,7 +580,6 @@ const experience = {
             "I implemented token-based authentication in Django Rest Framework, integrated APIs from Google, Facebook, and Instagram to enhance influencer ranking algorithms, and designed reusable UI components in Vue.js. I also enhanced the application with robust database, text, and logging mechanisms.",
           color: "#0879bf",
         },
-
         {
           title: "Game Developer (Unity)",
           company: "Mindstorm Studios",
@@ -586,7 +602,7 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Developer Student Club Lead - Core Team Member",
+          title: "Developer Student Club - Core Team Member",
           company: "Google Developers",
           company_url:
             "https://dsc.community.dev/information-technology-university/",
@@ -594,7 +610,7 @@ const experience = {
           duration: "July 2020 - July 2021",
           location: "ITU, Lahore",
           description:
-            "Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
+            "Worked as a core team member of the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
           color: "#4285F4",
         },
         {
