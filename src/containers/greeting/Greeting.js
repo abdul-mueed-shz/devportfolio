@@ -1,9 +1,8 @@
-import React from "react";
-import "./Greeting.css";
-import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
-import { greeting, socialMediaLinksHome } from "../../portfolio";
 import { Fade } from "react-reveal";
+import Button from "../../components/button/Button";
+import SocialMedia from "../../components/socialMedia/SocialMedia";
+import { greeting, socialMediaLinksHome } from "../../portfolio";
+import "./Greeting.css";
 // import FeelingProud from "./FeelingProud";
 
 export default function Greeting(props) {
@@ -52,7 +51,7 @@ export default function Greeting(props) {
             <FeelingProud theme={theme} /> */}
             <img
               className="myimage"
-              src={require("../../assests/images/devAvatar.jpg")}
+              src={require("../../assests/images/abdul's_professional_image.png")}
               alt="Abdul Mueed.img"
             ></img>
           </div>
