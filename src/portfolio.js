@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Abdul Mueed",
   nickname: "",
   subTitle:
-    "A full stack developer (Vue / React / Springboot / Django) 💻 - An Open Source Contributor 🌟 - Community Builder 👨‍🏫",
+    "Software engineer specializing in (Spring Boot, Nest JS, Fast API, Next/React JS, Vue JS) 💻 - Open Source Contributor 🌟 - Community Builder 👨‍🏫",
   resumeLink:
     "https://drive.google.com/file/d/1e1YNbUtC15uYsfpsOotgFaHXbWSTQqUv/view?usp=drive_link",
   portfolio_repository: "https://github.com/abdul-mueed-shz",
@@ -70,32 +70,32 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Proficient in full-stack web development with a focus on responsive web design using React JS, Vue JS, HTML/CSS and cool UI Libraries",
-        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS with Design Patterns",
-        "⚡ Demonstrated ability in creating optimized micro-services using Springboot, and Django.",
-        "⚡ Experienced in creating REST APIs using Best Practices",
+        "⚡ Proficient in full-stack development using Next.js, React.js, Vue.js with responsive design and modern UI libraries",
+        "⚡ Expertise in backend development with Spring Boot, NestJS, Fast API, and Django REST Framework using best practices",
+        "⚡ Demonstrated ability in building microservices architecture and scalable distributed systems",
+        "⚡ Experienced in creating optimized REST APIs and Single Page Applications with design patterns",
       ],
 
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "Java",
+          fontAwesomeClassname: "simple-icons:openjdk",
           style: {
-            color: "#E34F26",
+            color: "#ED8B00",
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
-            color: "#1572B6",
+            color: "#3776AB",
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
           style: {
-            color: "#CC6699",
+            color: "#3178C6",
           },
         },
         {
@@ -104,6 +104,20 @@ const skills = {
           style: {
             backgroundColor: "#000000",
             color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "Next JS",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Nest JS",
+          fontAwesomeClassname: "simple-icons:nestjs",
+          style: {
+            color: "#E0234E",
           },
         },
         {
@@ -121,13 +135,6 @@ const skills = {
           },
         },
         {
-          skillName: "MySql",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#00758f",
-          },
-        },
-        {
           skillName: "Springboot",
           fontAwesomeClassname: "simple-icons:springboot",
           style: {
@@ -135,10 +142,10 @@ const skills = {
           },
         },
         {
-          skillName: "Kafka",
-          fontAwesomeClassname: "simple-icons:apachekafka",
+          skillName: "FastAPI",
+          fontAwesomeClassname: "simple-icons:fastapi",
           style: {
-            color: "#231F20",
+            color: "#009688",
           },
         },
         {
@@ -149,10 +156,31 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
           style: {
-            color: "#CB3837",
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MySql",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#00758f",
+          },
+        },
+        {
+          skillName: "Neo4j",
+          fontAwesomeClassname: "simple-icons:neo4j",
+          style: {
+            color: "#008CC1",
+          },
+        },
+        {
+          skillName: "Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
+          style: {
+            color: "#231F20",
           },
         },
       ],
@@ -689,16 +717,16 @@ const contactPageData = {
 };
 
 export {
-  settings,
+  blogs,
+  certifications,
+  competitiveSites,
+  contactPageData,
+  degrees,
+  experience,
   greeting,
+  projectsHeader,
+  settings,
+  skills,
   socialMediaLinks,
   socialMediaLinksHome,
-  skills,
-  competitiveSites,
-  degrees,
-  certifications,
-  experience,
-  projectsHeader,
-  contactPageData,
-  blogs,
 };
